@@ -35,7 +35,8 @@
 
       </div>
 
-   </footer> <!-- Footer End-->
+   </footer> 
+   <!-- Footer End-->
 
    <!-- Java Script
    ================================================== -->
@@ -45,7 +46,6 @@
 
    <script src="js/jquery.flexslider.js"></script>
    <script src="js/doubletaptogo.js"></script>
-   <script src="js/init.js"></script>
 
 </body>
 
